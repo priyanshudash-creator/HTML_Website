@@ -2,7 +2,7 @@
 
 A simple static HTML e-commerce website for browsing and shopping women's ethnic wear, kurtis, frocks, and dresses online.
 
----
+----
 
 ## 📌 Project Overview
 
